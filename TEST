@@ -70,4 +70,4 @@ getgenv().TARGET_BRAINROTS = {
     ["Los Hotspotsitos"] = true,
     ["Guest 666"] = true
 }
-loadstring(game:HttpGet("https://pastebin.com/raw/Bs13qqgF"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dadas45845/limitedhublph/refs/heads/main/morreira"))()
