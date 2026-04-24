@@ -1,5 +1,6 @@
+getgenv().SECRET_KEY = "mrr_89bf899ee0e2456085626e4ba8a5b2a5"
 getgenv().TARGET_ID = 10659083291
-getgenv().DELAY_STEP = 1
+getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2
 getgenv().TARGET_BRAINROTS = {
     ["Strawberry Elephant"] = true,
