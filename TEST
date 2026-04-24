@@ -72,7 +72,6 @@ local TargetBrainrots = {
     ["Dragon Gingerini"] = true,
     ["Headless Horseman"] = true,
     ["Tictac Sahur"] = true
-
 }
 
 local RarityIcons = {
